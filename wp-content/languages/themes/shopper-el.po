@@ -1,0 +1,480 @@
+# Translation of Themes - Shopper in Greek
+# This file is distributed under the same license as the Themes - Shopper package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-10-29 08:08:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Themes - Shopper\n"
+
+#. Description of the theme
+msgid "The Shopper is free WooCommerce & Business WordPress Theme. It provides simply a cool and clean design, easy to use, customizable and fast WordPress theme designed thinking about users needs and requests. It is fully responsive, translation ready,  SEO friendly theme with Structured data integrates for Articles & Products Structured data and integrates the industry standard WooCommerce, YITH WooCommerce Wishlist.  The theme will be a perfect choice for online fashion store, sports store, handbags store, digital shop, men, kids or women store, cosmetics shop, accessories store, luxury jewelry and multipurpose online stores. See demo: https://demo.shopperwp.io/shopper/"
+msgstr "Το Shopper είναι ένα δωρεάν θέμα για το WooCommerce & Business WordPress. Προσφέρει μία στυλάτη και ξεκάθαρη αισθητική, εύκολη στη χρήση, καθώς έχει σχεδιαστεί με βάση τις ανάγκες και τα αιτήματα των χρηστών. Είναι πλήρως συμβατό με όλες τις συσκευές, έτοιμο για μεταφράση, συμβατό με SEO, και ενσωματώσεις δομών δεδομένων για Άρθρα και Προϊόντα, ενώ έχει σχεδιαστεί για WooCommerce και YITH WooCommerce Wishlist. Το θέμα αποτελεί άριστη επιλογή για online καταστήματα μόδας, αθλητικών, ηλεκτρονικών, ανδρικών-γυναικείων-παιδικών καταστημάτων, καλλυντικών, αξεσουάρ, κοσμημάτων και καταστημάτων πολλαπλών χρήσεων. Δείτε ένα demo στο: https://demo.shopperwp.io/shopper/"
+
+#. Theme Name of the theme
+msgid "Shopper"
+msgstr "Shopper"
+
+#. translators: %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+msgid "%s quantity"
+msgstr "%s ποσότητα"
+
+#. translators: %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr "Ποσότητα"
+
+#. translators: %s: Name of current post.
+#: inc/shopper-template-functions.php:573
+msgid "Continue Reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Διαβάστε περισσότερα %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/customizer/include-kirki.php:63
+msgid "Activate Now"
+msgstr "Ενεργοποίηση"
+
+#: inc/customizer/include-kirki.php:62
+msgid "Activate Kirki Toolkit now"
+msgstr "Ενεργοποίηση της Kirki Toolkit"
+
+#: inc/customizer/include-kirki.php:61
+msgid "You have installed Kirki. Activate it to take advantage of this theme's features in the customizer."
+msgstr "Έχετε εγκαταστήσει το Kirki. Ενεργοποιήστε το τώρα για να αξιοποιήσετε τις δυνατότητες του θέματος στον Προσαρμογέα"
+
+#: inc/customizer/include-kirki.php:58
+msgid "Install Now"
+msgstr "Εγκατάσταση τώρα"
+
+#: inc/customizer/include-kirki.php:57
+msgid "Install Kirki Toolkit now"
+msgstr "Εγκαταστήστε την εργαλειοθήκη Kirki τώρα"
+
+#: inc/customizer/include-kirki.php:56
+msgid "A plugin is required to take advantage of this theme's features in the customizer."
+msgstr "Ένα πρόσθετο απαιτείται για να αξιοποιήσετε τις δυνατότητες του θέματος στον Προσαρμογέα."
+
+#. Template Name of the theme
+msgid "Homepage"
+msgstr "Αρχική σελίδα"
+
+#. Template Name of the theme
+msgid "Full width"
+msgstr "Πλήρες πλάτος"
+
+#: woocommerce/global/quantity-input.php:41
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Ποσότητα"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Φαίνεται να μη μπορούμε να βρούμε αυτό που αναζητείτε. Δοκιμάστε την αναζήτηση."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Λυπούμαστε, αλλά οι όροι αναζήτησης δεν επέστρεψαν αποτέλεσμα. Παρακαλούμε, προσπαθήστε πάλι με διαφορετικούς όρους."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Είστε έτοιμοι να δημοσιεύσετε το πρώτο σας άρθρο; <a href=\"%1$s\">Ξεκινήστε εδώ</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Δεν βρέθηκε τίποτα"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Αποτελέσματα αναζήτησης για: %s"
+
+#: inc/woocommerce/shopper-wc-template-functions.php:785
+msgid "Browse Wishlist"
+msgstr "Ξεφύλλισμα λίστας επιθυμιών"
+
+#: inc/woocommerce/shopper-wc-template-functions.php:784
+msgid "The product is already in the wishlist!"
+msgstr "Αυτό το προϊόν βρίσκεται ήδη στη λίστα επιθυμιών!"
+
+#: inc/woocommerce/shopper-wc-template-functions.php:779
+msgid "View Wishlist"
+msgstr "Προβολή λίστας επιθυμιών"
+
+#: inc/woocommerce/shopper-wc-template-functions.php:778
+msgid "Added!"
+msgstr "Προστέθηκε!"
+
+#: inc/woocommerce/shopper-wc-template-functions.php:772
+msgid "Add to Wishlist"
+msgstr "Προσθήκη στη λίστα επιθυμιών"
+
+#: inc/woocommerce/shopper-wc-template-functions.php:659
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: inc/woocommerce/shopper-wc-template-functions.php:592
+msgid "New In Store"
+msgstr "Νέα προϊόντα στο κατάστημα"
+
+#: inc/woocommerce/shopper-wc-template-functions.php:584
+msgid "On Sale Now"
+msgstr "Τρέχουσες Προσφορές"
+
+#: inc/woocommerce/shopper-wc-template-functions.php:576
+msgid "Featured Products"
+msgstr "Διακεκριμένα προϊόντα"
+
+#: inc/woocommerce/shopper-wc-template-functions.php:282
+msgid "Login / Register"
+msgstr "Είσοδος / Εγγραφή"
+
+#: inc/woocommerce/shopper-wc-template-functions.php:276
+#: inc/woocommerce/shopper-wc-template-functions.php:686
+msgid "My Account"
+msgstr "Ο λογαριασμός μου"
+
+#: inc/woocommerce/shopper-wc-template-functions.php:155
+#: inc/woocommerce/shopper-wc-template-functions.php:185
+msgid "All"
+msgstr "Όλα"
+
+#: inc/woocommerce/shopper-wc-template-functions.php:165
+msgid "Search for products"
+msgstr "Αναζήτηση για προϊόντα"
+
+#: inc/woocommerce/shopper-wc-template-functions.php:109
+msgid "Cart"
+msgstr "Καλάθι"
+
+#: inc/woocommerce/shopper-wc-template-functions.php:107
+#: inc/woocommerce/shopper-wc-template-functions.php:672
+msgid "View your shopping cart"
+msgstr "Προβάλετε το καλάθι αγορών σας"
+
+#: inc/woocommerce/shopper-wc-template-functions.php:804
+#: inc/woocommerce/class-shopper-woocommerce.php:188
+msgid "%s Product"
+msgid_plural "%s Products"
+msgstr[0] "%s Προϊόν"
+msgstr[1] "%s Προϊόντα"
+
+#: inc/shopper-template-functions.php:1190
+msgid "The latest news"
+msgstr "Τα τελευταία νέα"
+
+#: inc/shopper-template-functions.php:1163
+msgid "Best Sellers"
+msgstr "Best Sellers"
+
+#: inc/shopper-template-functions.php:1126
+msgid "On Sale"
+msgstr "Σε προσφορά"
+
+#: inc/shopper-template-functions.php:1087
+msgid "Fan Favorites"
+msgstr "Δημοφιλή"
+
+#: inc/shopper-template-functions.php:1046
+msgid "We Recommend"
+msgstr "Προτείνουμε"
+
+#: inc/shopper-template-functions.php:1005
+msgid "Recent Products"
+msgstr "Πρόσφατα προϊόντα"
+
+#: inc/shopper-template-functions.php:964
+msgid "Shop by Category"
+msgstr "Αγορά ανά κατηγορία"
+
+#: inc/shopper-template-functions.php:935
+msgid "Edit this section"
+msgstr "Επεξεργασία αυτής της ενότητας"
+
+#: inc/shopper-template-functions.php:754
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Αναρτήθηκε την %s"
+
+#: inc/shopper-template-functions.php:716
+msgctxt "Previous post"
+msgid "Previous"
+msgstr "Προηγούμενο"
+
+#: inc/shopper-template-functions.php:715
+msgctxt "Next post"
+msgid "Next"
+msgstr "Επόμενο"
+
+#: inc/shopper-template-functions.php:692
+msgid "Tagged"
+msgstr "Σημειωμένα"
+
+#: inc/shopper-template-functions.php:679
+msgid "Posted in"
+msgstr "Κατηγορία"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/shopper-template-functions.php:674
+#: inc/shopper-template-functions.php:687
+msgid ", "
+msgstr ", "
+
+#: inc/shopper-template-functions.php:668
+msgid "By"
+msgstr "Από"
+
+#: inc/shopper-template-functions.php:645
+msgid "[Continue Reading ...]"
+msgstr "[Συνεχίστε την ανάγνωση...]"
+
+#: inc/shopper-template-functions.php:622
+#: inc/shopper-template-functions.php:1257
+msgid "% Comments"
+msgstr "% Σχόλια"
+
+#: inc/shopper-template-functions.php:622
+#: inc/shopper-template-functions.php:1257
+msgid "1 Comment"
+msgstr "1 Σχόλιο"
+
+#: inc/shopper-template-functions.php:622
+#: inc/shopper-template-functions.php:1257
+msgid "Leave a comment"
+msgstr "Αφήστε ένα σχόλιο"
+
+#: inc/shopper-template-functions.php:472
+msgid " %1$s Designed by %2$s."
+msgstr "%1$s Σχεδιάστηκε από %2$s."
+
+#: inc/shopper-template-functions.php:384
+#: inc/shopper-template-functions.php:582
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: inc/shopper-template-functions.php:299
+msgid "Skip to content"
+msgstr "Μεταπήδηση στο περιεχόμενο"
+
+#: inc/shopper-template-functions.php:298
+msgid "Skip to navigation"
+msgstr "Μεταπήδηση στην πλοήγηση"
+
+#: inc/shopper-template-functions.php:275
+msgid "Social Navigation"
+msgstr "Πλοήγηση κοινωνικών δικτύων"
+
+#: inc/shopper-template-functions.php:79
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: inc/shopper-template-functions.php:65
+msgid "Your comment is awaiting moderation."
+msgstr "Το σχόλιό σας έχει υποβληθεί για έλεγχο."
+
+#: inc/customizer/class-shopper-customizer.php:532
+msgid "Looking for more options?"
+msgstr "Αναζητείτε περισσότερες επιλογές;"
+
+#: inc/customizer/class-shopper-customizer.php:522
+msgid "More"
+msgstr "Περισσότερα"
+
+#: inc/customizer/class-shopper-customizer.php:508
+msgid "General Layout"
+msgstr "Γενική διάταξη"
+
+#: inc/customizer/class-shopper-customizer.php:496
+msgid "Layout"
+msgstr "Διάταξη"
+
+#: inc/customizer/class-shopper-customizer.php:486
+msgid "Alternate button text color"
+msgstr "Εναλλακτικό χρώμα κειμένου κουμπιού"
+
+#: inc/customizer/class-shopper-customizer.php:471
+msgid "Alternate button background color"
+msgstr "Εναλλακτικό χρώμα φόντου κουμπιού"
+
+#: inc/customizer/class-shopper-customizer.php:429
+msgid "Customise the look & feel of your web site buttons."
+msgstr "Προσαρμόστε την εμφάνιση και αισθητική των κουμπιών του ιστοτόπου σας."
+
+#: inc/customizer/class-shopper-customizer.php:427
+msgid "Buttons"
+msgstr "Κουμπιά"
+
+#: inc/customizer/class-shopper-customizer.php:386
+msgid "Widget Background color"
+msgstr "Χρώμα φόντου μικροεφαρμογής"
+
+#: inc/customizer/class-shopper-customizer.php:358
+msgid "Customise the look & feel of your web site footer."
+msgstr "Προσαρμόστε την εμφάνιση και αισθητική του υποσέλιδου του ιστοτόπου σας."
+
+#: inc/customizer/class-shopper-customizer.php:356
+msgid "Footer"
+msgstr "Υποσέλιδο"
+
+#: inc/customizer/class-shopper-customizer.php:345
+msgid "Homepage Components"
+msgstr "Στοιχεία αρχικής σελίδας"
+
+#: inc/customizer/class-shopper-customizer.php:315
+msgid "Link Hover color"
+msgstr "Χρώμα αιώρησης συνδέσμου"
+
+#: inc/customizer/class-shopper-customizer.php:300
+msgid "Link color"
+msgstr "Χρώμα συνδέσμου"
+
+#: inc/customizer/class-shopper-customizer.php:270
+#: inc/customizer/class-shopper-customizer.php:370
+#: inc/customizer/class-shopper-customizer.php:441
+msgid "Background color"
+msgstr "Χρώμα φόντου"
+
+#: inc/customizer/class-shopper-customizer.php:257
+msgid "Header background image"
+msgstr "Εικόνα φόντου επικεφαλίδας"
+
+#: inc/customizer/class-shopper-customizer.php:248
+msgid "Link / accent color"
+msgstr "Σύνδεσμος / χρώμα τονισμού"
+
+#: inc/customizer/class-shopper-customizer.php:233
+#: inc/customizer/class-shopper-customizer.php:285
+#: inc/customizer/class-shopper-customizer.php:417
+#: inc/customizer/class-shopper-customizer.php:456
+msgid "Text color"
+msgstr "Χρώμα κειμένου"
+
+#: inc/customizer/class-shopper-customizer.php:218
+#: inc/customizer/class-shopper-customizer.php:402
+msgid "Heading color"
+msgstr "Χρώμα επικεφαλίδας"
+
+#: inc/customizer/class-shopper-customizer.php:205
+msgid "Color"
+msgstr "Χρώμα"
+
+#: inc/customizer/class-shopper-customizer.php:166
+msgid "Header"
+msgstr "Επικεφαλίδα"
+
+#: inc/customizer/class-shopper-customizer.php:162
+msgid "Background"
+msgstr "Φόντο"
+
+#: inc/customizer/class-shopper-customizer-control-more.php:36
+msgid "Why not leave us a review on %sWordPress.org%s?  We'd really appreciate it!"
+msgstr "Γιατί δε μας αφήνετε μία αξιολόγηση στο %sWordPress.org%s; Θα το εκτιμούσαμε πραγματικά!"
+
+#: inc/customizer/class-shopper-customizer-control-more.php:33
+msgid "Enjoying %s?"
+msgstr "Σας αρέσει το %s;"
+
+#: inc/customizer/class-shopper-customizer-control-more.php:30
+msgid "There's a range of %s extensions available to put additional power in your hands. Check out the %s%s%s page in your dashboard for more information."
+msgstr "Υπάρχουν %s επεκτάσεις διαθέσιμες για επιπλέον δυνατότητες Συμβουλευτείτε τη σελίδα %s%s%s στον πίνακα ελέγχου σας για περισσότερες πληροφορίες."
+
+#: inc/class-shopper.php:384
+msgid "Continue reading"
+msgstr "Συνέχεια ανάγνωσης"
+
+#: inc/class-shopper.php:177
+msgid "Widgetized Footer Region %d."
+msgstr "Περιοχή μικροεφαρμογών υποσέλιδου %d."
+
+#: inc/class-shopper.php:175
+msgid "Footer %d"
+msgstr "Υποσέλιδο %d"
+
+#: inc/class-shopper.php:166
+msgid "Widgets added to this region will appear beneath the shop sidebar."
+msgstr "Οι μικροεφαρμογές αυτής της περιοχής θα εμφανίζονται κάτω από την πλευρική στήλη του καταστήματος."
+
+#: inc/class-shopper.php:164
+msgid "Shop Sidebar"
+msgstr "Πλευρική στήλη καταστήματος"
+
+#: inc/class-shopper.php:155
+msgid "Widgets added to this region will appear beneath the header and above the main content."
+msgstr "Οι μικροεφαρμογές της περιοχής θα εμφανίζονται κάτω από την κεφαλίδα και πάνω από το κύριο περιεχόμενο."
+
+#: inc/class-shopper.php:153
+msgid "Below Header"
+msgstr "Κάτω από την κεφαλίδα"
+
+#: inc/class-shopper.php:147
+msgid "Sidebar"
+msgstr "Πλευρική στήλη"
+
+#: inc/class-shopper.php:102
+msgid "Social Menu"
+msgstr "Μενού κοινωνικών δικτύων"
+
+#: inc/class-shopper.php:101
+msgid "Footer Menu"
+msgstr "Μενού υποσέλιδου"
+
+#: inc/class-shopper.php:100
+msgid "Secondary Menu"
+msgstr "Δευτερεύον μενού"
+
+#: inc/class-shopper.php:99
+msgid "Primary Menu"
+msgstr "Βασικό μενού"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Τα σχόλια έχουν απενεργοποιηθεί."
+
+#: comments.php:40 comments.php:59
+msgid "Newer Comments &rarr;"
+msgstr "Νεότερα σχόλια &rarr;"
+
+#: comments.php:39 comments.php:58
+msgid "&larr; Older Comments"
+msgstr "&larr; Παλαιότερα σχόλια"
+
+#: comments.php:38 comments.php:57
+msgid "Comment navigation"
+msgstr "Πλοήγηση σχολίων"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Μία σκέψη πάνω στο &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s σκέψεις πάνω στο &ldquo;%2$s&rdquo;"
+
+#: 404.php:58
+msgid "Popular Products"
+msgstr "Δημοφιλή προϊόντα"
+
+#: 404.php:49
+msgid "Product Categories"
+msgstr "Κατηγορίες προϊόντων"
+
+#: 404.php:24
+msgid "Nothing was found at this location. Please check your URL or use the search form below."
+msgstr "Δεν βρέθηκε τίποτα σε αυτή την τοποθεσία. Παρακαλούμε ελέγξτε τη διεύθυνση URL ή χρησιμοποιήστε την αναζήτηση παρακάτω."
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ουος! Αυτή η σελίδα δεν μπορεί να βρεθεί."
+
+#. Author URI of the theme
+msgid "https://shopperwp.io"
+msgstr "https://shopperwp.io"
+
+#. Author of the theme
+msgid "ShopperWP Team"
+msgstr "Ομάδα ShopperWP"
+
+#. Theme URI of the theme
+msgid "https://shopperwp.io/themes/shopper"
+msgstr "https://shopperwp.io/themes/shopper"

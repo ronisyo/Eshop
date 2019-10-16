@@ -1,0 +1,23 @@
+[12/Oct/2019:11:03:16] (ℹ️): WordPress Instance Info:
+[12/Oct/2019:11:03:16] (ℹ️): Home URL : http://localhost/eshop
+[12/Oct/2019:11:03:16] (ℹ️): Site URL : http://localhost/eshop
+[12/Oct/2019:11:03:16] (ℹ️): WordPress Version : 5.2.3
+[12/Oct/2019:11:03:16] (ℹ️): Onboarding Version : 1.7.6
+[12/Oct/2019:11:03:16] (ℹ️): Multisite : No
+[12/Oct/2019:11:03:16] (ℹ️): Server Info : Apache/2.4.39 (Win64) OpenSSL/1.0.2r PHP/7.1.28
+[12/Oct/2019:11:03:16] (ℹ️): PHP Version : 7.1.28
+[12/Oct/2019:11:03:16] (ℹ️): HTTPS : No
+[12/Oct/2019:11:03:16] (ℹ️): PHP Max Execution Time : 120
+[12/Oct/2019:11:03:16] (ℹ️): PHP Max Input Vars : 1000
+[12/Oct/2019:11:03:16] (ℹ️): Max Upload Size : 2097152
+[12/Oct/2019:11:03:16] (ℹ️): Plugins:
+[12/Oct/2019:11:03:16] (ℹ️): [PLUGIN] Elementor : v2.7.4 (Elementor.com)
+[12/Oct/2019:11:03:16] (ℹ️): [PLUGIN] Facebook for WooCommerce : v1.9.15 (Facebook)
+[12/Oct/2019:11:03:16] (ℹ️): [PLUGIN] Jetpack από το WordPress.com : v7.8 (Automattic.)
+[12/Oct/2019:11:03:16] (ℹ️): [PLUGIN] Mailchimp for WooCommerce : v2.2.4 (Mailchimp)
+[12/Oct/2019:11:03:16] (ℹ️): [PLUGIN] Max Mega Menu : v2.7.2 (megamenu.com)
+[12/Oct/2019:11:03:16] (ℹ️): [PLUGIN] Smart Slider 3 : v3.3.22 (Nextend)
+[12/Oct/2019:11:03:16] (ℹ️): [PLUGIN] Checkout Field Editor for WooCommerce : v1.3.9 (ThemeHigh)
+[12/Oct/2019:11:03:16] (ℹ️): [PLUGIN] WooCommerce Admin : v0.19.0 (WooCommerce)
+[12/Oct/2019:11:03:16] (ℹ️): [PLUGIN] WOOF - WooCommerce Products Filter : v1.2.3 (realmag777)
+[12/Oct/2019:11:03:16] (ℹ️): [PLUGIN] WooCommerce : v3.7.1 (Automattic)

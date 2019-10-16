@@ -1,0 +1,1336 @@
+# Translation of Themes - Best Commerce in Greek
+# This file is distributed under the same license as the Themes - Best Commerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-12 08:59:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Themes - Best Commerce\n"
+
+#. Theme Name of the plugin/theme
+msgid "Best Commerce"
+msgstr "Best Commerce"
+
+#. Description of the plugin/theme
+msgid "Best Commerce is an aesthetically pure and clean and highly customizable, professionally composed and very lightweight and fast loading, responsive WordPress e-commerce theme. It smoothly integrates WooCommerce, one of the best e-commerce plugin, to make professional and stunning stores. It comes with an eye-catching layout design that will instantly draw the attention of anyone who visits your website. It is designed with strong focus on usability and overall excellent user experience. It exists so that you can speedily and efficiently craft powerful e-Commerce websites across all niches and markets in a matter of minutes, without having to write a line of code."
+msgstr "Το Best Commerce είναι ένα θέμα αισθητικά αγνό, καθαρό, εξαιρετικά προσαρμόσιμο, επαγγελματικά σύνθετο, πολύ ελαφρύ και γρήγορο στο φόρτωμα, ανταποκρινόμενο θέμα για ηλεκτρονικό εμπόριο στο WordPress. Ενσωματώνει ομαλά το WooCommerce, ένα από τα καλύτερα πρόσθετα ηλεκτρονικού εμπορίου, για να δημιουργήσετε επαγγελματικά και εκπληκτικά καταστήματα. Έρχεται με ένα εντυπωσιακό σχεδιασμό διάταξης, που θα τραβήξει άμεσα την προσοχή όλων όσων επισκέπτονται τον ιστότοπό σας. Σχεδιάστηκε με μεγάλη έμφαση στη χρηστικότητα και τη συνολική άριστη εμπειρία χρήσης. Βρίσκεται εδώ, έτσι ώστε να μπορείτε γρήγορα και αποτελεσματικά να δημιουργείτε ισχυρούς ιστοτόπους ηλεκτρονικού εμπορίου για όλους τους τομείς και τις αγορές σε λίγα λεπτά, χωρίς να χρειάζεται να γράψετε ούτε μια γραμμή κώδικα."
+
+#: includes/template-tags.php:71
+msgid "% Comments"
+msgstr "% σχόλια"
+
+#: includes/theme-hooks.php:222
+msgid "%1$s by %2$s"
+msgstr "%1$s από %2$s"
+
+#. translators: 1: theme name
+#: includes/module/about.php:16
+msgid "%1$s is now installed and ready to use! We want to make sure you have the best experience using %1$s and that is why we gathered here all the necessary information for you. We hope you will enjoy using %1$s."
+msgstr "%1$s εγκαταστάθηκε και είναι έτοιμο για χρήση! Θέλουμε να σιγουρευτούμε ότι θα έχετε την καλύτερη εμπειρία στη χρήση του %1$s και γι'αυτό μαζέψαμε εδώ όλες τις απαραίτητες πληροφορίες για εσάς. Ελπίζουμε ότι θα ευχαριστηθείτε με τη χρήση του %1$s."
+
+#: includes/helpers.php:320
+msgid "%1$s page does not contain %2$s shortcode."
+msgstr "%1$s σελίδα δεν περιέχει %2$s μικροκώδικα."
+
+#: includes/helpers.php:323
+msgid "%s page is not set."
+msgstr "%s σελίδα δεν ορίστηκε."
+
+#: includes/customizer/control.php:169 includes/widgets.php:141
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Επιλογή &mdash;"
+
+#. Translators: used between list items, there is a space after the comma.
+#: includes/template-tags.php:57 includes/template-tags.php:63
+msgid ", "
+msgstr ", "
+
+#: includes/template-tags.php:71
+msgid "1 Comment"
+msgstr "1 σχόλιο"
+
+#: includes/theme-hooks.php:396
+msgid "404 Error"
+msgstr "Σφάλμα 404"
+
+#: vendors/breadcrumbs/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr "404 Δε βρέθηκε"
+
+#: includes/module/about.php:9 includes/module/about.php:10
+msgid "About Best Commerce"
+msgstr "Περί του Best Commerce"
+
+#: vendors/about/class-about.php:597
+#: vendors/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Ενεργοποίηση"
+
+#: functions.php:123
+msgid "Add widgets here to appear in your Featured Carousel section."
+msgstr "Προσθέστε μικροεφαρμογές εδώ για να εμφανιστούν στην περιοχή καρουζέλ προβεβλημένων."
+
+#: functions.php:105
+msgid "Add widgets here to appear in your Primary Sidebar."
+msgstr "Προσθέστε μικροεφαρμογές εδώ για να εμφανιστούν στην πρωτεύουσα πλευρική στήλη."
+
+#: functions.php:114
+msgid "Add widgets here to appear in your Secondary Sidebar."
+msgstr "Προσθέστε μικροεφαρμογές εδώ για να εμφανιστούν στην δευτερεύουσα πλευρική στήλη."
+
+#: includes/core.php:87
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: includes/customizer/option.php:229
+msgid "Address Title"
+msgstr "Τίτλος διεύθυνσης"
+
+#: includes/customizer/option.php:265
+msgid "Address URL"
+msgstr "Διεύθυνση URL"
+
+#: includes/widgets.php:269
+msgid "Advanced Recent Posts Widget. Displays recent posts with thumbnail."
+msgstr "Μικροεφαρμογή Advanced Recent Post. Εμφανίζει τα πρόσφατα άρθρα με μικρογραφία."
+
+#: includes/core.php:95 includes/widgets.php:282
+msgid "All Categories"
+msgstr "Όλες οι κατηγορίες"
+
+#: includes/widgets.php:154
+msgid "Applies when Short is selected in Show Content."
+msgstr "Εφαρμόζεται όταν είναι επιλεγμένο το Σύντομο στην Εμφάνιση περιεχομένου"
+
+#: includes/customizer/option.php:430
+msgid "Archive Layout"
+msgstr "Διάταξη αρχείου"
+
+#: vendors/breadcrumbs/breadcrumbs.php:268
+msgid "Archives"
+msgstr "Αρχεία"
+
+#: includes/widgets.php:265
+msgid "BC: Advanced Recent Posts"
+msgstr "BC: Advanced Recent Posts"
+
+#: includes/widgets.php:124
+msgid "BC: Featured Page"
+msgstr "BC: Featured Page"
+
+#: includes/widgets.php:50
+msgid "BC: Social"
+msgstr "BC: Social"
+
+#: includes/customizer.php:31
+msgid "Best Commerce Pro"
+msgstr "Best Commerce Pro"
+
+#: includes/customizer/option.php:505
+msgid "Blog Options"
+msgstr "Επιλογές ιστολογίου"
+
+#: vendors/breadcrumbs/breadcrumbs.php:264
+msgid "Browse:"
+msgstr "Περιήγηση:"
+
+#: includes/customizer.php:32
+msgid "Buy Pro"
+msgstr "Αγοράστε την Pro έκδοση"
+
+#: includes/customizer/option.php:383
+msgid "Category Menu Depth"
+msgstr "Βάθος μενού κατηγορίας"
+
+#: includes/customizer/option.php:346
+msgid "Category Menu Label"
+msgstr "Ετικέτα μενού κατηγορίας"
+
+#: includes/customizer/option.php:364
+msgid "Category Menu Type"
+msgstr "Τύπος μενού κατηγορίας"
+
+#: includes/module/about.php:63
+msgid "Check Recommended Actions"
+msgstr "Ελέγξτε τις προτεινόμενες ενέργειες"
+
+#: vendors/widget-helper/class-widget-helper.php:166
+msgid "Choose Image"
+msgstr "Επιλέξτε εικόνα"
+
+#: includes/module/metabox.php:57
+msgid "Choose Layout"
+msgstr "Επιλογή διάταξης"
+
+#: comments.php:53 comments.php:74
+msgid "Comment navigation"
+msgstr "Πλοήγηση σχολιασμών"
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr "Ο σχολιασμός είναι απενεργοποιημένος."
+
+#: includes/customizer/option.php:247
+msgid "Contact Address"
+msgstr "Διεύθυνση επικοινωνίας"
+
+#: includes/customizer/option.php:211
+msgid "Contact Email"
+msgstr "Email επικοινωνίας"
+
+#: includes/tgm.php:32
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: includes/customizer/option.php:177
+msgid "Contact Number"
+msgstr "Αριθμός επικοινωνίας"
+
+#: includes/module/about.php:155 includes/module/about.php:158
+msgid "Contact Support"
+msgstr "Επικοινωνία υποστήριξης"
+
+#: includes/customizer/option.php:161
+msgid "Contact Title"
+msgstr "Τίτλος επικοινωνίας"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:41
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Συνεχίστε την ανάγνωση %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: includes/core.php:106
+msgid "Copyright &copy; All rights reserved."
+msgstr "Copyright &copy; Όλα τα δικαιώματα κατοχυρωμένα."
+
+#: includes/customizer/option.php:495
+msgid "Copyright Text"
+msgstr "Κείμενο Copyright"
+
+#: includes/module/about.php:192 includes/module/about.php:195
+msgid "Customization Request"
+msgstr "Αίτηση προσαρμογής"
+
+#: includes/module/about.php:79
+msgid "Customize Everything"
+msgstr "Προσαρμόστε τα πάντα"
+
+#: vendors/about/class-about.php:601
+msgid "Deactivate"
+msgstr "Απενεργοποίηση"
+
+#: includes/template-functions.php:178
+msgid "Default"
+msgstr "Προεπιλογή"
+
+#: includes/widgets.php:318
+msgid "Disable Date"
+msgstr "Απενεργοποίηση ημερομηνίας"
+
+#: includes/widgets.php:128
+msgid "Displays single featured Page"
+msgstr "Εμφανίζει μια σελίδα προβεβλημένων"
+
+#: includes/customizer/option.php:285
+msgid "Do not forget to create social menu and assign it to Social menu location."
+msgstr "Μην ξεχάσετε να δημιουργήσετε μενού κοινωνικών δικτύων και να το αναθέσετε στη θέση του μενού των κοινωνικών δικτύων"
+
+#: includes/template-tags.php:75 template-parts/content-page.php:33
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: includes/core.php:85
+msgid "Email"
+msgstr "Email"
+
+#: includes/customizer/option.php:195
+msgid "Email Title"
+msgstr "Τίτλος email"
+
+#: includes/customizer/carousel.php:125
+msgid "Enable Autoplay"
+msgstr "Ενεργοποίηση αυτόματης αναπαραγωγής"
+
+#: includes/customizer/carousel.php:30
+msgid "Enable Carousel On"
+msgstr "Ενεργοποίηση καρουσέλ"
+
+#: includes/customizer/option.php:329
+msgid "Enable Category Menu"
+msgstr "Ενεργοποίηση μενού κατηγορίας"
+
+#: includes/customizer/option.php:73
+msgid "Enable Offer"
+msgstr "Ενεργοποίηση προσφοράς"
+
+#: includes/customizer/option.php:144
+msgid "Enable Quick Contact"
+msgstr "Ενεργοποίηση γρήγορης επικοινωνίας"
+
+#: includes/customizer/option.php:312
+msgid "Enable Search Form"
+msgstr "Ενεργοποίηση φόρμας αναζήτησης"
+
+#: includes/customizer/option.php:284
+msgid "Enable Social Icons"
+msgstr "Ενεργοποίηση εικονιδίων κοινωνικών δικτύων"
+
+#: includes/module/about.php:53
+msgid "Even if you are a long-time WordPress user, we still believe you should give our documentation a very quick read."
+msgstr "Ακόμη και αν είστε παλιός χρήστης του WordPress, πιστεύουμε ότι πρέπει να διαβάσετε στα γρήγορα την τεκμηρίωσή μας."
+
+#: includes/customizer/option.php:522
+msgid "Excerpt Length"
+msgstr "Μέγεθος αποσπάσματος"
+
+#: includes/widgets.php:153 includes/widgets.php:309
+msgid "Excerpt Length:"
+msgstr "Μέγεθος αποσπάσματος:"
+
+#: includes/customizer/carousel.php:13
+msgid "Featured Carousel"
+msgstr "Καρουσέλ προβεβλημένων"
+
+#: includes/widgets.php:285
+msgid "Featured Image:"
+msgstr "Προβεβλημένη εικόνα:"
+
+#: functions.php:121
+msgid "Featured Widget Area"
+msgstr "Περιοχή μικροεφαρμογών για προβεβλημένα"
+
+#: functions.php:130 functions.php:138 functions.php:146 functions.php:154
+msgid "Footer %d"
+msgstr "Υποσέλιδο %d"
+
+#: functions.php:37
+msgid "Footer Menu"
+msgstr "Μενού υποσέλιδου"
+
+#: includes/customizer/option.php:478
+msgid "Footer Options"
+msgstr "Επιλογές υποσέλιδου"
+
+#: includes/widgets.php:149
+msgid "Full"
+msgstr "Πλήρες"
+
+#: includes/helpers.php:129
+msgid "Full (original)"
+msgstr "Πλήρες (αρχικό)"
+
+#: includes/helpers.php:96
+msgid "Full Post"
+msgstr "Πλήρες άρθρο"
+
+#: vendors/about/class-about.php:165
+msgid "Get started with %s"
+msgstr "Ξεκινήστε με το %s"
+
+#: includes/module/about.php:41
+msgid "Getting Started"
+msgstr "Ξεκινήστε"
+
+#: includes/customizer/option.php:412
+msgid "Global Layout"
+msgstr "Καθολική διάταξη"
+
+#: includes/module/about.php:81
+msgid "Go to Customizer"
+msgstr "Μεταβείτε στον Προσαρμογέα"
+
+#: includes/module/about.php:157
+msgid "Got theme support question or found bug? Best place to ask your query is our dedicated Support forum."
+msgstr "Έχετε ερώτηση υποστήριξης για το θέμα ή βρήκατε ένα σφάλμα; Το καλύτερο μέρος να θέσετε το ερώτημά σας είναι το forum υποστήριξης."
+
+#: vendors/about/class-about.php:688
+msgid "Great, all recommended plugins are intalled and active."
+msgstr "Τέλεια, όλα τα προτεινόμενα πρόσθετα είναι εγκατεστημένα και ενεργά."
+
+#: includes/module/about.php:185
+msgid "Have any query before purchase, you are more than welcome to ask."
+msgstr "Αν έχετε απορίες πριν την αγορά, είστε ευπρόσδεκτοι να τις κάνετε."
+
+#: includes/customizer/option.php:56
+msgid "Header Options"
+msgstr "Επιλογές κεφαλίδας"
+
+#: includes/extras.php:280 includes/support/woocommerce.php:320
+#: includes/template-functions.php:116 vendors/breadcrumbs/breadcrumbs.php:266
+msgid "Home"
+msgstr "Αρχική"
+
+#: includes/customizer/option.php:466
+msgid "Image Alignment in Archive"
+msgstr "Στοίχιση εικόνας στο αρχείο"
+
+#: includes/widgets.php:291
+msgid "Image Width:"
+msgstr "Πλάτος εικόνας:"
+
+#: includes/customizer/option.php:448
+msgid "Image in Archive"
+msgstr "Εικόνα στο αρχείο"
+
+#: vendors/about/class-about.php:593
+#: vendors/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Εγκατάσταση"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Φαίνεται ότι δεν υπάρχει κάτι σε αυτή τη τοποθεσία. Ίσως να δοκιμάζατε την αναζήτηση;"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Φαίνεται ότι δε μπορούμε να βρούμε αυτό που αναζητάτε. Ίσως η αναζήτηση να βοηθήσει."
+
+#: includes/helpers.php:128
+msgid "Large"
+msgstr "Μεγάλο"
+
+#: includes/customizer/option.php:395
+msgid "Layout Options"
+msgstr "Επιλογές διάταξης"
+
+#: includes/template-tags.php:71
+msgid "Leave a comment"
+msgstr "Αφήστε ένα σχόλιο"
+
+#: includes/template-functions.php:326
+msgid "Login/Register"
+msgstr "Είσοδος/Εγγραφή"
+
+#: vendors/about/class-about.php:696
+msgid "Manage Plugins"
+msgstr "Διαχείριση πρόσθετων"
+
+#: includes/helpers.php:127
+msgid "Medium"
+msgstr "Μεσαίο"
+
+#: includes/customizer/option.php:295
+msgid "Menu Options"
+msgstr "Επιλογές μενού"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: vendors/breadcrumbs/breadcrumbs.php:276
+msgid "Minute %s"
+msgstr "Λεπτά %s"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: includes/template-functions.php:91
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "ενεργό"
+
+#: includes/template-functions.php:322
+msgid "My Account"
+msgstr "Ο λογαριασμός μου"
+
+#: includes/module/about.php:194
+msgid "Needed any customization for the theme, you can request from here."
+msgstr "Αν θέλετε οποιαδήποτε προσαρμογή του θέματος, μπορείτε να το ζητήσετε από εδώ."
+
+#: comments.php:57 comments.php:78
+msgid "Newer Comments"
+msgstr "Νεότερα σχόλια"
+
+#: includes/helpers.php:123
+msgid "No Image"
+msgstr "Καμία εικόνα"
+
+#: includes/helpers.php:22
+msgid "No Sidebar"
+msgstr "Καμιά πλευρική στήλη"
+
+#: includes/customizer/carousel.php:68
+msgid "No of Items"
+msgstr "Αριθμός αντικειμένων"
+
+#: includes/widgets.php:301
+msgid "No of Posts:"
+msgstr "Αριθμός αναρτήσεων:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Δε βρέθηκε τίποτα"
+
+#: includes/widgets.php:310
+msgid "Number of words. Enter 0 to disable."
+msgstr "Αριθμός λέξεων. Εισάγετε 0 για απενεργοποίηση."
+
+#: includes/customizer/option.php:108
+msgid "Offer Link Text"
+msgstr "Κείμενο συνδέσμου προσφοράς"
+
+#: includes/customizer/option.php:126
+msgid "Offer Link URL"
+msgstr "Σύνδεσμος URL προσφοράς"
+
+#: includes/customizer/option.php:90
+msgid "Offer Title"
+msgstr "Τίτλος προσφοράς"
+
+#: comments.php:56 comments.php:77
+msgid "Older Comments"
+msgstr "Παλιότερα σχόλια"
+
+#: includes/module/about.php:132 includes/module/about.php:143
+#: includes/tgm.php:37
+msgid "One Click Demo Import"
+msgstr "One Click Demo Import"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Αυτή η σελίδα δεν μπορεί να βρεθεί."
+
+#. Translators: %s is the page number.
+#: vendors/breadcrumbs/breadcrumbs.php:272
+msgid "Page %s"
+msgstr "Σελίδα %s"
+
+#: template-parts/content-page.php:26 template-parts/content-single.php:31
+#: template-parts/content.php:46
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: includes/core.php:83
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+#: includes/module/about.php:166
+msgid "Please check our theme documentation for detailed information on how to setup and use theme."
+msgstr "Παρακαλούμε ελέγξτε την τεκμηρίωση του θέματος για λεπτομερείς πληροφορίες στο πώς να ρυθμίσετε και να χρησιμοποιήσετε το θέμα."
+
+#: includes/module/about.php:112
+msgid "Please install WooCommerce plugin."
+msgstr "Παρακαλούμε εγκαταστήστε το πρόσθετο WooCommerce."
+
+#: includes/module/about.php:133
+msgid "Please install the One Click Demo Import plugin to import the demo content."
+msgstr "Παρακαλούμε εγκαταστήστε το πρόσθετο One Click Demo Import για να εισάγετε το περιεχόμενο επίδειξης."
+
+#: includes/module/about.php:119
+msgid "Please make sure all WooCommerce pages are set properly. %1$s"
+msgstr "Παρακαλούμε επιβεβαιωθείτε ότι όλες οι σελίδες του WooCommerce είναι ρυθμισμένες σωστά. %1$s"
+
+#: includes/helpers.php:40
+msgid "Post Categories"
+msgstr "Κατηγορίες άρθρων"
+
+#: includes/helpers.php:77
+msgid "Post Category"
+msgstr "Κατηγορία άρθρου"
+
+#: includes/helpers.php:97
+msgid "Post Excerpt"
+msgstr "Απόσπασμα άρθρου"
+
+#: includes/theme-hooks.php:220
+msgid "Powered by %s"
+msgstr "Βασίζεται στο %s"
+
+#: includes/module/about.php:183
+msgid "Pre-sale Queries"
+msgstr "Ερωτήματα πριν την αγορά"
+
+#: includes/module/about.php:186
+msgid "Pre-sale question?"
+msgstr "Ερώτηση πριν την αγορά;"
+
+#: functions.php:36
+msgid "Primary Menu"
+msgstr "Αρχικό μενού"
+
+#: functions.php:103
+msgid "Primary Sidebar"
+msgstr "Πρωτεύουσα πλευρική στήλη"
+
+#: includes/module/about.php:173
+msgid "Pro Version"
+msgstr "Έκδοση Pro"
+
+#: includes/helpers.php:41
+msgid "Product Categories"
+msgstr "Κατηγορίες προϊόντων"
+
+#: includes/helpers.php:78
+msgid "Product Category"
+msgstr "Κατηγορία προϊόντος"
+
+#: includes/module/about.php:34
+msgid "Rate This Theme"
+msgstr "Αξιολογήστε αυτό το θέμα"
+
+#: includes/core.php:110
+msgid "Read More"
+msgstr "Διαβάστε περισσότερα"
+
+#: includes/customizer/option.php:540
+msgid "Read More Text"
+msgstr "Κείμενο για Διαβάστε περισσότερα"
+
+#: includes/widgets.php:225
+msgid "Read more"
+msgstr "Διαβάστε περισσότερα"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Έτοιμοι να δημοσιεύσετε το πρώτο σας άρθρο; <a href=\"%1$s\">Ξεκινήστε εδώ</a>."
+
+#: includes/module/about.php:42 includes/module/about.php:61
+msgid "Recommended Actions"
+msgstr "Προτεινόμενες ενέργειες"
+
+#: includes/module/about.php:119
+msgid "Reference"
+msgstr "Παραπομπή"
+
+#: vendors/widget-helper/class-widget-helper.php:168
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#. translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+#: includes/template-functions.php:86
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "ενεργό"
+
+#: includes/theme-hooks.php:394
+msgid "Search Results for: %s"
+msgstr "Αποτελέσματα αναζήτησης για: %s"
+
+#: includes/extras.php:22
+msgid "Search&hellip;"
+msgstr "Αναζήτηση"
+
+#: functions.php:112
+msgid "Secondary Sidebar"
+msgstr "Δευτερεύουσα πλευρική στήλη"
+
+#: includes/module/about.php:126
+msgid "Select A static page then Front page and Posts page to display front page specific sections. Note: Static page will be set automatically when you import demo content."
+msgstr "Επιλέξτε Μια στατική αρχική σελίδα και κατόπιν Αρχική σελίδα και Σελίδα Άρθρων, για να εμφανιστούν συγκεκριμένοι τομείς. Σημειώστε: Η στατική σελίδα δε θα οριστεί αυτόματα όταν εισάγετε το περιεχόμενο επίδειξης."
+
+#: includes/customizer/carousel.php:49
+msgid "Select Carousel Type"
+msgstr "Επιλογή τύπου καρουσέλ"
+
+#: includes/customizer/carousel.php:88
+msgid "Select Category"
+msgstr "Επιλογή κατηγορίας"
+
+#: includes/widgets.php:280
+msgid "Select Category:"
+msgstr "Επιλογή κατηγορίας:"
+
+#: vendors/widget-helper/class-widget-helper.php:166
+msgid "Select Image"
+msgstr "Επιλογή εικόνας"
+
+#: includes/widgets.php:168
+msgid "Select Image Alignment:"
+msgstr "Επιλογή στοίχισης εικόνας:"
+
+#: includes/widgets.php:162
+msgid "Select Image:"
+msgstr "Επιλογή εικόνας:"
+
+#: includes/widgets.php:139
+msgid "Select Page:"
+msgstr "Επιλογή σελίδας:"
+
+#: includes/customizer/carousel.php:108
+msgid "Select Product Category"
+msgstr "Επιλογή κατηγορίας προϊόντος"
+
+#: includes/module/about.php:125
+msgid "Setting Static Front Page"
+msgstr "Ρύθμιση της στατικής αρχικής σελίδας"
+
+#: includes/widgets.php:148
+msgid "Short"
+msgstr "Σύντομο"
+
+#: includes/widgets.php:144
+msgid "Show Content:"
+msgstr "Εμφάνιση περιεχομένου:"
+
+#: includes/customizer/option.php:20
+msgid "Show Site Title"
+msgstr "Εμφάνιση τίτλου ιστότοπου"
+
+#: includes/customizer/option.php:37
+msgid "Show Tagline"
+msgstr "Εμφάνιση υπότιτλου"
+
+#: includes/theme-hooks.php:16
+msgid "Skip to content"
+msgstr "Προχωρήστε στο περιεχόμενο"
+
+#: includes/widgets.php:54
+msgid "Social Icons Widget"
+msgstr "Μικροεφαρμογή εικονιδίων κοινωνικών δικτύων"
+
+#: functions.php:38
+msgid "Social Menu"
+msgstr "Μενού κοινωνικών δικτύων"
+
+#: includes/core.php:79
+msgid "Special Offer:"
+msgstr "Ειδική προσφορά:"
+
+#: includes/helpers.php:59 includes/module/about.php:129
+msgid "Static Front Page"
+msgstr "Στατική αρχική σελίδα"
+
+#: includes/module/about.php:45
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#: includes/module/about.php:70 includes/module/demo.php:17
+msgid "Theme Demo Content"
+msgstr "Περιεχόμενο επίδειξης θέματος"
+
+#: includes/module/about.php:21
+msgid "Theme Details"
+msgstr "Λεπτομέρειες θέματος"
+
+#: includes/module/about.php:52 includes/module/about.php:164
+msgid "Theme Documentation"
+msgstr "Τεκμηρίωση θέματος"
+
+#: includes/customizer/option.php:47
+msgid "Theme Options"
+msgstr "Επιλογές θέματος"
+
+#: includes/module/metabox.php:22
+msgid "Theme Settings"
+msgstr "Ρυθμίσεις θέματος"
+
+#: includes/module/about.php:148
+msgid "This theme supports some helpful WordPress plugins to enhance your website."
+msgstr "Αυτό το θέμα υποστηρίζει κάποια χρήσιμα πρόσθετα του WordPress, για να ενισχύσουν την ιστοσελίδα σας."
+
+#: includes/helpers.php:21
+msgid "Three Columns"
+msgstr "Τρείς στήλες"
+
+#: includes/helpers.php:126
+msgid "Thumbnail"
+msgstr "Μικρογραφία"
+
+#: includes/widgets.php:60 includes/widgets.php:134 includes/widgets.php:275
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: includes/customizer/carousel.php:139
+msgid "Transition Delay"
+msgstr "Χρόνος μετάβασης"
+
+#: includes/module/about.php:46 includes/module/about.php:214
+#: vendors/about/class-about.php:653
+msgid "Upgrade to Pro"
+msgstr "Αναβάθμιση στο Pro"
+
+#: includes/module/about.php:176 includes/module/about.php:213
+msgid "Upgrade to pro version for more exciting features and additional theme options."
+msgstr "Αναβαθμίστε στην Pro έκδοση για περισσότερες συναρπαστικές λειτουργίες και πρόσθετες επιλογές του θέματος."
+
+#: vendors/widget-helper/class-widget-helper.php:166
+msgid "Upload"
+msgstr "Ανέβασμα"
+
+#: includes/module/about.php:44
+msgid "Useful Plugins"
+msgstr "Χρήσιμα πρόσθετα"
+
+#: includes/module/about.php:149
+msgid "Useful Plugins List:"
+msgstr "Λίστα χρήσιμων πρόσθετων:"
+
+#: includes/module/about.php:80
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "Χρησιμοποιώντας τον προσαρμογέα του WordPress, μπορείτε εύκολα να προσαρμόστε κάθε κομμάτι του θέματος."
+
+#: includes/module/about.php:25 includes/module/about.php:90
+msgid "View Demo"
+msgstr "Δείτε την επίδειξη"
+
+#: template-parts/carousel.php:70
+msgid "View Details"
+msgstr "Δείτε λεπτομέρειες"
+
+#: includes/module/about.php:29 includes/module/about.php:54
+#: includes/module/about.php:167
+msgid "View Documentation"
+msgstr "Δείτε την τεκμηρίωση"
+
+#: includes/module/about.php:177
+msgid "View Pro Version"
+msgstr "Δείτε την Pro έκδοση"
+
+#: includes/module/about.php:62
+msgid "We have compiled a list of steps for you, to take make sure the experience you will have using one of our products is very easy to follow."
+msgstr "Διαμορφώσαμε μια λίστα ενεργειών για εσάς, για να σιγουρευτούμε ότι η εμπειρία που θα έχετε, χρησιμοποιώντας ένα προϊόν μας, θα είναι εύκολη."
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: vendors/breadcrumbs/breadcrumbs.php:278
+msgid "Week %s"
+msgstr "Εβδομάδα %s"
+
+#. translators: theme version
+#: includes/module/about.php:13
+msgid "Welcome to %s - v"
+msgstr "Καλώς ήλθατε στο %s - v"
+
+#: includes/customizer/carousel.php:173
+msgid "Widget Section Alignment"
+msgstr "Στοίχιση τομέα μικροεφαρμογών"
+
+#: includes/customizer/carousel.php:157
+msgid "Widgets Section"
+msgstr "Τομέας μικροεφαρμογών"
+
+#: includes/module/about.php:111 includes/tgm.php:22
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/module/about.php:118
+msgid "WooCommerce Pages"
+msgstr "Σελίδες WooCommerce"
+
+#: includes/tgm.php:27
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce Wishlist"
+
+#: includes/helpers.php:173
+msgctxt "alignment"
+msgid "Center"
+msgstr "Κέντρο"
+
+#: includes/helpers.php:172 includes/helpers.php:192
+msgctxt "alignment"
+msgid "Left"
+msgstr "Αριστερή"
+
+#: includes/helpers.php:171
+msgctxt "alignment"
+msgid "None"
+msgstr "Καμία"
+
+#: includes/helpers.php:174 includes/helpers.php:193
+msgctxt "alignment"
+msgid "Right"
+msgstr "Δεξιά"
+
+#: vendors/breadcrumbs/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s σχόλιο για &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s σχόλια για &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Ένα σχόλιο για &ldquo;%s&rdquo;"
+
+#: vendors/breadcrumbs/breadcrumbs.php:790
+#: vendors/breadcrumbs/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: includes/customizer/option.php:266
+msgid "eg, Google map URL"
+msgstr "π.χ., URL των Google map"
+
+#: vendors/breadcrumbs/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: includes/theme-hooks.php:220
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: includes/customizer/carousel.php:140
+msgid "in seconds"
+msgstr "σε δευτερόλεπτα"
+
+#: includes/customizer/option.php:523
+msgid "in words"
+msgstr "σε λέξεις"
+
+#: includes/extras.php:21 includes/extras.php:22
+msgctxt "label"
+msgid "Search for:"
+msgstr "Αναζήτηση για:"
+
+#: vendors/breadcrumbs/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#: vendors/breadcrumbs/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: vendors/breadcrumbs/breadcrumbs.php:789
+#: vendors/breadcrumbs/breadcrumbs.php:845
+#: vendors/breadcrumbs/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: includes/helpers.php:216
+msgctxt "page setting"
+msgid "Cart"
+msgstr "Καλάθι αγορών"
+
+#: includes/helpers.php:220
+msgctxt "page setting"
+msgid "Checkout"
+msgstr "Ταμείο"
+
+#: includes/helpers.php:224
+msgctxt "page setting"
+msgid "My account"
+msgstr "Ο λογαριασμός μου"
+
+#: includes/helpers.php:212
+msgctxt "page setting"
+msgid "Shop base"
+msgstr "Βασική καταστήματος"
+
+#: includes/widgets.php:292
+msgid "px"
+msgstr "px"
+
+#: vendors/breadcrumbs/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: vendors/breadcrumbs/breadcrumbs.php:788
+#: vendors/breadcrumbs/breadcrumbs.php:817
+#: vendors/breadcrumbs/breadcrumbs.php:844
+#: vendors/breadcrumbs/breadcrumbs.php:871
+#: vendors/breadcrumbs/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Όλες οι εγκαταστάσεις ολοκληρώθηκαν."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: vendors/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Εγκατάσταση και ενεργοποίηση πρόσθετου %1$s (%2$d/%3$d)"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3509
+#: vendors/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Απόκρυψη λεπτομερειών"
+
+#. translators: 1: plugin name.
+#: vendors/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Η εγκατάσταση του %1$s απέτυχε."
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Η ενεργοποίηση του πρόσθετου απέτυχε."
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Ενημέρωση"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: vendors/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Ενεργοποίηση %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: vendors/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Ενημέρωση %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: vendors/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Εγκατάσταση %2$s"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Απαιτείται"
+
+#. translators: %s: version number
+#: vendors/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:1121
+#: vendors/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "και"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Το απομακρυσμένο πακέτο του πρόσθετου περιέχει περισσότερα από ένα αρχεία, αλλά τα αρχεία δεν είναι πακεταρισμένα σε φάκελο."
+
+#. translators: 1: plugin name.
+#: vendors/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s εγκαταστάθηκε και ενεργοποιήθηκε με επιτυχία."
+
+#. translators: 1: plugin name.
+#: vendors/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s εγκαταστάθηκε επιτυχώς"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Ενεργό"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Όλες οι εγκαταστάσεις και οι ενεργοποιήσεις ολοκληρώθηκαν."
+
+#. translators: 1: dashboard link.
+#: vendors/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Όλα τα πρόσθετα εγκαταστάθηκαν και ενημερώθηκαν επιτυχώς. %1$s"
+
+#. translators: 1: plugin name, 2: error message.
+#: vendors/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ένα σφάλμα παρουσιάστηκε κατά την εγκατάσταση του %1$s: <strong>%2$s</strong>."
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Διαθέσιμη έκδοση:"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Έναρξη ενεργοποίησης πρόσθετου"
+msgstr[1] "Έναρξη ενεργοποίησης πρόσθετων"
+
+#. translators: 1: plugin name(s).
+#: vendors/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Έναρξη εγκατάστασης πρόσθετου"
+msgstr[1] "Έναρξη εγκατάστασης πρόσθετων"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Έναρξη ενημέρωσης πρόσθετου"
+msgstr[1] "Έναρξη ενημέρωσης πρόσθετων"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Κλείστε αυτή τη πληροφορία"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Εξωτερική πηγή"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Εγκατάσταση πρόσθετων"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Εγκατάσταση απαιτούμενων πρόσθετων"
+
+#. translators: 1: install status, 2: update status
+#: vendors/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Εγκατεστημένο αλλά μη ενεργό"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Εγκατεστημένη έκδοση:"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: vendors/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Εγκατάσταση πρόσθετου %1$s (%2$d/%3$d)"
+
+#. translators: %s: plugin name.
+#: vendors/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Εγκατάσταση πρόσθετου: %s"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Ελάχιστη απαιτούμενη έκδοση:"
+
+#. translators: 1: plugin name.
+#: vendors/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Καμιά ενέργεια δεν έγινε. Το πρόσθετο %1$s ήταν ήδη ενεργό."
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Κανένα πρόσθετο δεν είναι διαθέσιμο προς ενεργοποίηση αυτή τη στιγμή."
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Κανένα πρόσθετο δεν είναι διαθέσιμο προς εγκατάσταση προς το παρόν."
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Κανένα πρόσθετο δεν είναι διαθέσιμο προς ενημέρωση προς το παρόν."
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Κανένα πρόσθετο προς εγκατάσταση, ενημέρωση ή ενεργοποίηση."
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Κανένα πρόσθετο δεν επιλέχθηκε για ενεργοποίηση. Καμιά ενέργεια δε θα γίνει."
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Δεν επιλέχθηκαν πρόσθετα προς εγκατάσταση. Καμία ενέργεια δε θα γίνει."
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Δεν επιλέχθηκαν πρόσθετα προς ενημέρωση. Καμία ενέργεια δε θα γίνει."
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Μη εγκατεστημένο"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Παρακαλούμε επικοινωνήστε με τον διαχειριστή της ιστοσελίδας για βοήθεια."
+
+#: vendors/tgm/class-tgm-plugin-activation.php:934
+#: vendors/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Παρακαλώ επικοινωνήστε με τον κατασκευαστή του πρόσθετου και ζητήστε να διαμορφώσουν το πρόσθετο, σύμφωνα με τις οδηγίες του WordPress"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Πρόσθετο"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:387
+#: vendors/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Το πρόσθετο ενεργοποιήθηκε επιτυχώς"
+
+#. translators: 1: plugin name.
+#: vendors/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Το πρόσθετο δεν είναι ενεργό. Μια νεότερη έκδοση του %s απαιτείται για αυτό το θέμα. Παρακαλούμε ενημερώστε το πρόσθετο."
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Προ-πακεταρισμένο"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Προτείνεται"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Απαιτούμενη ενημέρωση μη διαθέσιμη"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Απαιτεί ενημέρωση"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Επιστροφή στην εγκατάσταση των απαιτούμενων πρόσθετων"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:386
+#: vendors/tgm/class-tgm-plugin-activation.php:827
+#: vendors/tgm/class-tgm-plugin-activation.php:2533
+#: vendors/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Επιστροφή στον πίνακα ελέγχου"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3509
+#: vendors/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Εμφανίστε λεπτομέρειες"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Κάτι πήγε στραβά με το API του πρόσθετου."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Λυπούμαστε, αλλά τίποτα δε ταιριάζει με τους όρους αναζήτησης. Παρακαλούμε προσπαθήστε ξανά με διαφορετικές λέξεις-κλειδιά."
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Πηγή"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Η διαδικασία εγκατάστασης και ενεργοποίησης έχει ξεκινήσει. Η διαδικασία μπορεί να πάρει λίγο χρόνο, παρακαλούμε να είστε υπομονετικοί."
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Η διαδικασία εγκατάστασης ξεκινάει. Μπορεί να διαρκέσει λίγο, οπότε να είστε υπομονετικοί."
+
+#: vendors/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Το πακέτο του πρόσθετου δεν περιέχει φάκελο με το επιθυμητό slug και η μετονομασία δε δούλεψε."
+
+#: vendors/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Υπάρχουν ένα ή περισσότερα απαιτούμενα ή προτεινόμενα πρόσθετα προς εγκατάσταση, ενημέρωση ή ενεργοποίηση."
+
+#: vendors/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Αυτό το πρόσθετο χρειάζεται να ενημερωθεί για να είναι συμβατό με το θέμα σας."
+
+#. translators: 1: number of plugins.
+#: vendors/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Προς ενεργοποίηση <span class=\"count\">(%s)</span>"
+msgstr[1] "Προς ενεργοποίηση <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: vendors/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Προς εγκατάσταση <span class=\"count\">(%s)</span>"
+msgstr[1] "Προς εγκατάσταση <span class=\"count\">(%s)</span>"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Τύπος"
+
+#. translators: 1: number of plugins.
+#: vendors/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Διαθέσιμη ενημέρωση <span class=\"count\">(%s)</span>"
+msgstr[1] "Διαθέσιμη ενημέρωση <span class=\"count\">(%s)</span>"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Απαιτείται ενημέρωση"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Προτείνεται ενημέρωση"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: vendors/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Ενημέρωση πρόσθετου %1$s (%2$d/%3$d)"
+
+#. translators: %s: plugin name.
+#: vendors/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Ενημέρωση πρόσθετου: %s"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Μήνυμα αναβάθμισης από τον εκδότη του πρόσθετου:"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Έκδοση"
+
+#: vendors/about/class-about.php:165
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our %2$swelcome page%3$s."
+msgstr "Καλώς ήλθατε! Ευχαριστούμε που επιλέξατε το %1$s! Για να επωφεληθείτε πλήρως από το τι μπορεί να προσφέρει το θέμα μας, παρακαλούμε επισκεφτείτε την %2$sσελίδα υποδοχής%3$s."
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Αποθήκη του WordPress"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "άγνωστη"
+
+#. translators: 1: number of plugins.
+#: vendors/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Όλα <span class=\"count\">(%s)</span>"
+msgstr[1] "Όλα <span class=\"count\">(%s)</span>"
+
+#: vendors/tgm/class-tgm-plugin-activation.php:388
+#: vendors/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "Το ακόλουθο πρόσθετο ενεργοποιήθηκε επιτυχώς:"
+
+#: includes/support/woocommerce.php:418
+msgid "Shop"
+msgstr "Κατάστημα"
+
+#: includes/module/about.php:99 includes/module/about.php:204
+msgid "About Child Theme"
+msgstr "Περί του θυγατρικού θέματος"
+
+#: includes/module/about.php:98 includes/module/about.php:203
+msgid "If you want to customize theme file, you should use child theme rather than modifying theme file itself."
+msgstr "Αν θέλετε να προσαρμόσετε το θέμα, είναι προτιμότερο να χρησιμοποιήσετε ένα θυγατρικό θέμα, από το να τροποποιείτε το αρχικό θέμα."
+
+#: includes/module/about.php:97 includes/module/about.php:201
+msgid "Child Theme"
+msgstr "Θυγατρικό θέμα"
+
+#: includes/helpers.php:19
+msgid "Primary Sidebar - Content"
+msgstr "Βασική πλευρική στήλη - Περιεχόμενο"
+
+#: includes/helpers.php:20
+msgid "Content - Primary Sidebar"
+msgstr "Περιεχόμενο - Βασική πλευρική στήλη"
+
+#. Author of the plugin/theme
+msgid "Axle Themes"
+msgstr "Axle Themes"
+
+#. Author URI of the plugin/theme
+msgid "https://axlethemes.com/"
+msgstr "https://axlethemes.com/"
+
+#. Theme URI of the plugin/theme
+msgid "https://axlethemes.com/downloads/best-commerce/"
+msgstr "https://axlethemes.com/downloads/best-commerce/"
